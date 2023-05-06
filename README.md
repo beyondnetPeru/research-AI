@@ -1,6 +1,6 @@
-# Research About IA
+# Research About AI
 
-Research about IA resources and integrated with some apps
+Research about AI resources and integrated with some apps
 
-- Chat sample integrated with Open-IA
+- Chat sample integrated with Open-AI
 
